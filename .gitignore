@@ -1,0 +1,8 @@
+# ignore source_documents txt files
+source_documents/**/
+
+# llm service stuff
+llm-service/source_documents/
+llm-service/models/
+llm-servrice/db/
+/.idea/
